@@ -77,6 +77,9 @@
 
 
 ## Acknowledgement
+
+<div align="center">
+
 Thanks to underration's GitHub Profile
 
-[![GitHub](https://img.shields.io/badge/🌐_GitHub-underration-4285f4?style=for-the-badge)]([https://miikun77.pages.dev](https://github.com/underration/underration))
+[![GitHub](https://img.shields.io/badge/🌐_GitHub-underration-4285f4?style=for-the-badge)](https://github.com/underration/underration)
