@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  pull_request:
-    paths:
-      - ".github/workflows/readme-stats.yml"
 
 jobs:
   build:
@@ -35,10 +32,10 @@ jobs:
           token: ${{ secrets.PAT }}
 
       - name: Commit cards
-        if: github.event_name != 'pull_request'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update README stats cards" || exit 0
+          git pull --rebase origin main
           git push
