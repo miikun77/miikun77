@@ -12,11 +12,13 @@
 
 **🎓 Aerospace Engineering Student** at Osaka Metropolitan University
 
+**🧑‍🔬 Research Assistant** at Linköping University
+
 **💼 Founder and CEO** of Mi&T Inc.
 
 **💼 Software Engineer** at Affectify Inc.
 
-**📍 Based in** Osaka, Japan
+**📍 Based in** Norrköping, Sweden
 
 **🚀 Passionate about** airplane and becoming a better engineer
 
